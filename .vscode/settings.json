@@ -1,0 +1,78 @@
+{
+  "json.schemas": [],
+  "redhat.telemetry.enabled": true,
+  "workbench.tree.indent": 4,
+  "editor.tabSize": 2,
+  "editor.fontSize": 13,
+  "editor.renderWhitespace": "boundary",
+  "editor.cursorStyle": "line",
+  "editor.columnSelection": false,
+  "editor.comments.ignoreEmptyLines": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.guides.bracketPairs": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "files.autoSave": "off",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true
+  },
+  "editor.formatOnPaste": false,
+  "workbench.editor.enablePreview": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.tree.expandMode": "doubleClick",
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.labelFormat": "short",
+  "workbench.editor.scrollToSwitchTabs": false,
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "scm.diffDecorationsGutterPattern": {
+    "added": true
+  },
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.fontSize": 13,
+  "[typescript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[prisma]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "editor.minimap.enabled": false,
+  "window.commandCenter": true,
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false
+  },
+  "dart.previewFlutterUiGuides": true,
+  "dart.openDevTools": "flutter",
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "eslint.codeActionsOnSave.rules": null,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "eslint.format.enable": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": false,
+    "source.organizeImports": false,
+    "source.fixAll.eslint": true
+  },
+  "github.copilot.enable": {
+    "*": false
+  },
+  "WillLuke.nextjs.addTypesOnSave": true,
+  "WillLuke.nextjs.hasPrompted": true
+}

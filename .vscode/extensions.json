@@ -1,0 +1,59 @@
+{
+  "recommendations": [
+    "jock.svg",
+    "simonsiefke.svg-preview",
+    "ctcuff.font-preview",
+    "redhat.vscode-yaml",
+    "mikestead.dotenv",
+    "shd101wyy.markdown-preview-enhanced",
+    "christian-kohler.path-intellisense",
+
+    "huizhou.githd",
+    "eamodio.gitlens",
+    "arturock.gitstash",
+    "waderyan.gitblame",
+    "mhutchie.git-graph",
+    "codezombiech.gitignore",
+    "donjayamanne.githistory",
+    "donjayamanne.git-extension-pack",
+    "felipecaputo.git-project-manager",
+
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "rvest.vs-code-prettier-eslint",
+    "usernamehw.errorlens",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+
+    "ms-vscode.remote-server",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode.remote-explorer",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+
+    "ms-playwright.playwright",
+
+    "pflannery.vscode-versionlens",
+    "jasonnutter.search-node-modules",
+
+    "eriklynd.json-tools",
+    "quicktype.quicktype",
+    "mariusalchimavicius.json-to-ts",
+
+    "bmalehorn.print-it",
+
+    "digoro.clipboard",
+    "pnp.polacode",
+    "idanp.smartmulticursor",
+    "huangbaoshan.comment-aligner"
+  ],
+  "unwantedRecommendations": [
+    "octref.vetur",
+    "hookyqr.beautify",
+    "dbaeumer.jshint",
+    "philnash.ngrok-for-vscode",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "pkief.material-icon-theme",
+    "zhuangtongfa.material-theme"
+  ]
+}
